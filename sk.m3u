@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7QZ5F7M.png",DD Sports
+http://172.16.29.2:8090/hls/ddsports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4JQZ1Zm.png",Discovery HD
+http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fF0KQkC.png",A Sports HD
+http://172.16.29.2:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0qkHc2N.png",Channel i HD
+http://172.16.29.2:8090/hls/channelihd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3h6qJvN.png",Star Sports Select 2 HD
+http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4cQe3hZ.png",Star Jalsha HD
+http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZpG1xJ.png",Somoy TV
+http://172.16.29.2:8090/hls/somoytv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bt7J3vF.png",Star Plus HD
+http://172.16.29.2:8090/hls/StarPlusHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fq9Yj7N.png",Zee TV HD
+http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6N2Yx7T.png",Sony Max HD
+http://172.16.29.2:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxj1y8Y.png",Zee Bangla HD
+http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2M0Q7uZ.png",Sony HD
+http://172.16.29.2:8090/hls/SonyHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jzM0KQb.png",Star Sports 1 HD
+http://172.16.29.2:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xK6ZrL.png",Colors Bangla HD
+http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PpJ9Kf.png",Cartoon Network HD
+http://172.16.29.2:8090/hls/CartoonNetworkHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9dWJ8m.png",Star Gold HD
+http://172.16.29.2:8090/hls/StarGoldHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cK8z7yM.png",Zee Cinema HD
+http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xH3YvL.png",Jalsha Movies HD
+http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6XWkR2H.png",T Sports HD
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3Z2JqB.png",Gazi TV HD
+http://172.16.29.2:8090/hls/gazitvhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8C8z4Zx.png",BBC Earth HD
+http://172.16.29.2:8090/hls/bbcearthhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpR7wX5.png",Animal Planet HD
+http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7vX9zH4.png",Discovery Kids
+http://172.16.29.2:8090/hls/DiscoveryKids.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J1Kp7xY.png",Willow Cricket HD
+http://172.16.29.2:8090/hls/willowcrickethd.m3u8
