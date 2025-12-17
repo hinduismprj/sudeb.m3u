@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,DD Sports
+#EXTINF:-1,DD Sports HD
 http://172.16.29.2:8090/hls/ddsports.m3u8
 #EXTINF:-1,Discovery HD
 http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
