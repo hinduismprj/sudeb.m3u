@@ -95,34 +95,69 @@ http://172.16.29.2:8090/hls/fubosports.m3u8
 http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
 #EXTINF:-1,Willow Cricket HD
 http://172.16.29.2:8090/hls/willowcrickethd.m3u8
-#EXTM3U
 
-#EXTINF:-1,9X Jalwa HD (Stream 1)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/b43f44f3-e7b5-40f8-83a0-50b05af593da/0.m3u8
-
-#EXTINF:-1,9X Jalwa HD (Stream 2)
+#EXTINF:-1,9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/d8767dfe-f2ae-486a-810a-8b16e8d72ac6/0.m3u8
 
-#EXTINF:-1,9X Jalwa HD (Stream 3)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/d8767dfe-f2ae-486a-810a-8b16e8d72ac6/1.m3u8
+#EXTINF:-1,Netflix Stream
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
-#EXTINF:-1,9X Jalwa HD (Stream 4)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/b43f44f3-e7b5-40f8-83a0-50b05af593da/1.m3u8
+#EXTINF:-1,9X Jhakaas HD
+https://9xjio.wiseplayout.com/9X_Jhakaas/HD720/HD720.m3u8
 
-#EXTINF:-1,Ananda TV
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSA1OjQ5OjE1IFBNJmhhc2hfdmFsdWU9QlNwTVM5MXBOR254MzR6QlVDQlNzZz09JnZhbGlkbWludXRlcz00MA%3D%3D
+#EXTINF:-1,9X Tashan
+https://9xjio.wiseplayout.com/9X_Tashan/SD360/SD360.m3u8
 
-#EXTINF:-1,9X Jalwa HD (Stream 5)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/b43f44f3-e7b5-40f8-83a0-50b05af593da/2.m3u8
+#EXTINF:-1,Pishow TV 969
+https://cdn-4.pishow.tv/live/969/969_1.m3u8
 
-#EXTINF:-1,9X Jalwa HD (Stream 6)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/d8767dfe-f2ae-486a-810a-8b16e8d72ac6/2.m3u8
+#EXTINF:-1,ABP Ananda
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/e4545e93-7805-45e8-bfc1-8ca9037610c7/2.m3u8
 
-#EXTINF:-1,9X Jalwa HD (Stream 7)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/d8767dfe-f2ae-486a-810a-8b16e8d72ac6/3.m3u8
+#EXTINF:-1,Pishow TV 237
+https://cdn-2.pishow.tv/live/237/237_1.m3u8
 
-#EXTINF:-1,9X Jalwa HD (Stream 8)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/b43f44f3-e7b5-40f8-83a0-50b05af593da/3.m3u8
+#EXTINF:-1,Pishow TV 1456
+https://cdn-1.pishow.tv/live/1456/1456_1.m3u8
 
-#EXTINF:-1,9X Jalwa HD (Backup)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/a8ee6681-04df-459c-bed9-690f3b628aa3/0.m3u8
+#EXTINF:-1,High News
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+
+#EXTINF:-1,Pishow TV 1473
+https://cdn-4.pishow.tv/live/1473/1473_1.m3u8
+
+#EXTINF:-1,Pishow TV 1231
+https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
+
+#EXTINF:-1,Republic TV
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/b6aef0af-5633-46d3-b3f9-44bebc3a2ac6/3.m3u8
+
+#EXTINF:-1,Pishow TV 1039
+https://cdn-4.pishow.tv/live/1039/1039_1.m3u8
+
+#EXTINF:-1,ZB Bhakti
+https://server.zillarbarta.com/zbbhakti/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,ZB Cartoon
+https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,Zillar Barta
+https://server.zillarbarta.com/zillarbarta/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,Joo Music
+https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
+
+#EXTINF:-1,PTV Sports
+https://tvsen5.aynaott.com/Ptvsports/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,RTA TV
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+
+#EXTINF:-1,T Sports HD
+https://tvsen7.aynaott.com/tsportshd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,M Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/50ed973c-e7c9-479e-be43-be06fb481ff9/0.m3u8
+
+#EXTINF:-1,Cloud Stream
+https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index_1.m3u8
