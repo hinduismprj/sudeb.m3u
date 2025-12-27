@@ -159,5 +159,5 @@ https://tvsen7.aynaott.com/tsportshd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,M Plus
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/50ed973c-e7c9-479e-be43-be06fb481ff9/0.m3u8
 
-#EXTINF:-1,Cloud Stream
-https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index_1.m3u8
+#EXTINF:-1,Bangla tv BD
+https://cdn.ghuddi.live/tvpage/Bangla_TV_BD/Transcoded/Bangla_TV_BD_1080p/chunks.m3u8
